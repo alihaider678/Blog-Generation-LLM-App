@@ -1,0 +1,7 @@
+sentence-transformers
+uvicorn
+ctransformers
+langchain
+python-box
+streamlit
+fsspec[http]<=2024.2.0,>=2023.1.0
